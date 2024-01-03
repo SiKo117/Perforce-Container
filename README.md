@@ -8,7 +8,7 @@ Just download the bash file (PerforceDeployScript.sh) and run it as sudo.
 
 While the script running it ask for input
 go with the default input of everything except P4ROOT directory.
-***IMPORTANT NOTE: Make sure to put the perforce root directory as /perforce****
+***IMPORTANT NOTE: Make sure to put the perforce root directory as /perforce ****
 
 In the end The script will login you into the perforce container.
 
