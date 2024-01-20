@@ -1,5 +1,5 @@
 # Perforce-Container
-Its a bash script for Ubuntu 18.04 to host Perforce on Docker.
+Its a bash script for Ubuntu to host Perforce on Docker.
 I don't know how to code, i just used some AI language models to write this script so i was thinking of sharing this script to help others.
 This script create the p4d.template file because for some reason while installing the perforce in the container it doesn't create while installation.
 
